@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A scheme for a public academy some reasons for its institution, the common objections answer'd, with the easie method of its support / design'd by a privat person, and humbly submitted to both the Honorable Houses of Parliament ...</title>
+            <author>Privat person.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62341</idno>
+            <idno type="STC">Wing S860</idno>
+            <idno type="STC">ESTC R12491</idno>
+            <idno type="EEBO-CITATION">12538340</idno>
+            <idno type="OCLC">ocm 12538340</idno>
+            <idno type="VID">62899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62899)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 291:7 or 21242:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A scheme for a public academy some reasons for its institution, the common objections answer'd, with the easie method of its support / design'd by a privat person, and humbly submitted to both the Honorable Houses of Parliament ...</title>
+                  <author>Privat person.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Title on p. 3: An easy method for supporting and maintaining a public academy, also of producing a surplus for other great services to the nation.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Public schools --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="scheme">
+            <pb n="1" facs="tcp:62899:1" rendition="simple:additions"/>
+            <head>A Scheme for a <hi>Public Academy,</hi> ſome Reaſons for its Inſtitution, the Common Objections an<g ref="char:EOLhyphen"/>ſwer'd, with the Eaſie Method of its Support; deſign'd by a Privat Perſon, and humbly ſub<g ref="char:EOLhyphen"/>mitted to both the Honorable Houſes of Parlia<g ref="char:EOLhyphen"/>ment; whereby always forty Scholars, Sons of Gentlemen, are for <hi>Three Years</hi> to have their Lodging and Commons <hi>Gratis,</hi> and a Free Education in Languages, Arts and Exerciſes. Alſo Annual Penſions for <hi>Three Years</hi> after they have left the ſaid Academy.</head>
+            <p>SInce in moſt Eminent Citys abroad there is an Academy, or <hi>Schola Illuſtris,</hi> ſup<g ref="char:EOLhyphen"/>ported and diſtinguiſh'd by Authority, it has bin often wiſh'd and deſir'd, that ſuch a Conſtitution were improv'd, and eſtabliſh'd amongſt us, in our famous City of <hi>London,</hi> where in one Place, beyond the nature of Foreign Education, or the narrow Compaſs of Grammatical Scholes, our <hi>Engliſh</hi> Youth, with better ſafe<g ref="char:EOLhyphen"/>ty of Religion, Life, and Manners, might be bred at home in Languages, Arts and Exerciſes; and praepar'd with more Expedition and Certainty for their laſt Accom<g ref="char:EOLhyphen"/>pliſhment in our Univerſitys, and the different ſervices of the Public.</p>
+            <p>This Noble Deſign was conſider'd ſome years ago, but then War was the Impedi<g ref="char:EOLunhyphen"/>ment; it being advis'd to expect ſucceſs, when our Great Monarch had ſecur'd out Peace; wherefore in this Auſpicious time it is attempted; and for its Performance theſe Circumſtances are thought neceſſary.</p>
+            <p n="1">1. That a larg Houſe be provided, with Ground convenient for this Purpoſe.</p>
+            <p n="2">2. That two skilful Maſters be appointed for the diſtinct Parts of Education, who being rewarded by a good ſtipend, are to teach a ſeparat aequal number, yet with affection, and mutual regard to the whole; by which New Method, a Conſtant and Friendly Aemulation ariſes between Maſters and Scholars, to the greater Glory, and Improvement of the Charg.</p>
+            <p n="3">3. For the infallible Obligation of this honeſt Ambition, and Progreſs in their Stu<g ref="char:EOLhyphen"/>dies, there is to be every firſt <hi>Monday</hi> of the Month a Public Challeng, or Diſputa<g ref="char:EOLhyphen"/>tion between both Parties before their Maſters, in a Larg <hi>Auditorium,</hi> where any Perſon may be admitted to make his Obſervation, and adjudg the Praemium allotted for the Victors.</p>
+            <p n="4">4. That there be Two Chief Maſters for <hi>Graec,</hi> and <hi>Latin,</hi> and under their Inſpecti<g ref="char:EOLhyphen"/>on and Direction Two Maſters for <hi>French,</hi> Two for Mathematics, Two for Writing and Accounts: Who are to teach <hi>Graec, Latin, French,</hi> Hiſtory, Chronology, Geo<g ref="char:EOLhyphen"/>graphy, Aſtronomy, Geometry, Navigation, Arithmetic, Merchants Accounts; and after two years Induſtry in theſe Studyes, the Student may, by the Orders of the Place, have liberty for Dancing, Fencing, and Riding the Great Horſe; from which Latitude of Inſtruction, according to his Genius, he may be qualify'd to ſerve him<g ref="char:EOLhyphen"/>ſelf and Country in any of its beſt Capacitys.</p>
+            <pb n="2" facs="tcp:62899:2"/>
+            <p n="5">5. That a Prudent, and Learned Rector praeſide over this Academy, who is to chuſe and govern theſe Maſters, to obſerve their diligence, and puniſh the Society, by Statutes drawn up for the Regulation of the ſame.</p>
+            <p>This Academy cannot in reaſon raiſe any Scruple in our Univerſitys, ſince it is not to meddle with Logic, or other Parts of Philoſophy peculiar to a College. Beſides, to conſult their Intereſt, Exhibitions are to be allow'd from Hence to ſome of its Scholars, whoſe Learning being ſuperior to their Fortune, ſhal merit for their Exemplary Virtu and Ingenuity ſuch Reward to aſſiſt them in our Univerſitys.</p>
+            <p>Nor can any Public Schole be praejudic'd by this Inſtitution, which admits only thoſe into the Foundation who are advanc'd in the <hi>Latin</hi> and <hi>Graec</hi> Tongue, about 14 years of Age, or Commoners who have ſo loſt their time, as not to be Poliſh'd by the Practice of our Grammar Scholes.</p>
+            <p>The Author of theſe Propoſals, having had long Experience, and no ſmal Credit in this Scholaſtic Life, with the opinion of his Learned Friends, believes this Ful, and Comprehenſive Education praeferable to any yet Extant, and being deſirous to do what Good he can, by promoting the benefit of Mankind, and the honor of his Country, does profer to lay the firſt Corner Stone of this Academy, out of his own Moderat Fortune, to incite Perſons of greater Quality, and Eſtates, for the mighty advantages of their Familys, to aſſiſt him in carrying on this Uſeful Undertaking.</p>
+            <p>He therefore wil give for the Accommodation of this Academy a very valuable larg Brick-Houſe, with ſpatious Ground, and Out-Houſes, wel wal'd about, ſituat in an open Healthful Air, in the Pariſh of St. <hi>James Weſtminſter,</hi> which coſt him above 2000 <abbr>
+                  <hi>l.</hi>
+               </abbr> building, where the Rector, Maſters, 40 Scholars, and Servants, have their Lodgings already fitted for ſuch a Foundation.</p>
+            <p>He wil erect a Capacious <hi>Auditorium,</hi> 60 feet long, 20 high, and 30 broad, for the Reputation of this Academy, where the monthly Exerciſes are to be perform'd before a Public Audience, alſo Maſters, and Scholars may eat their Commons together in a Collegiat manner.</p>
+            <p>He wil undertake to be the Firſt Rector of this Academy, and is inclin'd to ſettle a conſiderable Eſtate upon the ſame, if he finds a ſuitable Encouragement.</p>
+            <p>The Scholars, in reference to his thoughts, are not to excede the Number of 60, 40 of the Foundation, with 20 Commoners; and their weekly Management is already digeſted into a Rational and Eaſie Courſe, tho for brevity omitted in this Paper; whereby 'tis prov'd, that Languages, Arts, and Exerciſes, may very wel be acquir'd by ſuch a ſelect Number, under one Tuition, in one Place.</p>
+            <p>After ſuch Generous Zeal from One of an Inferior Station, 'tis praeſum'd that ſome Great, and Public-ſpirited Perſons, to whom He has the Honor to be wel known, and has made his Application, may procure his Majeſty, with the two Honorable Houſes of Parliament, to extend their Patronage, and Favor to this Undertaker, that he might proſecute his good Intentions, by conferring upon him as Rector, and his Succeſſors, an Employment, which for ſeveral years by a late Law was thought ne<g ref="char:EOLhyphen"/>ceſſary; and ſince its Expiration is again very much wanted, and requir'd, which upon no account can be ſo wel apply'd, as by Information may plainly appear.</p>
+            <p>Upon which Grant, confirm'd by Law, He does not doubt a Fund may be fix'd to ſupport and maintain a Rector, 14 Maſters, 13 Servants and 40 Scholars, Sons of Gen<g ref="char:EOLhyphen"/>tlemen, who are to have their Education, and Commons for Three years <hi>Gratis;</hi> and Annual Penſions for Three years after their Removal from this Academy. Moreover, the Undertaker is ready to declare other ways, and means, to produce a ſurplus for <hi>Greenwich</hi> Hoſpital, or what may ſeem moſt proper to the Wiſdom of the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <div type="method">
+               <pb n="3" facs="tcp:62899:3"/>
+               <head>An Eaſy Method of ſupporting and maintain<g ref="char:EOLhyphen"/>ing a <hi>Public Academy:</hi> alſo of producing a Surplus for other great ſervices to the Nation; humbly propos'd to the conſideration of both Honorable Houſes of Parliament.</head>
+               <p>THat they pleaſe, for this general Benefit, and other good Reaſons there<g ref="char:EOLhyphen"/>unto moving, to eſtabliſh a Regiſter for the Entry of al ſingle Papers, Pamphlets and Books whatſoever, before they are Printed; Except Ga<g ref="char:EOLhyphen"/>zettes, Proclamations, and Papers publiſh'd by the Kings Authority.</p>
+               <p>That now One only Regiſter be orderd for entring al ſorts of Papers, Pamphlets and Books, in all Facultys whatſoever, who is not to read the Paper or Book, where<g ref="char:EOLhyphen"/>by he may hinder the Liberty of the Preſs, but to enter the Title of the Book, with the Bookſellers or Printers Name; one of which ſhal be oblig'd to bring the ſame to be enterd. And that no Paper, Pamphlet or Book be printed without this Regiſters Entry and <hi>Imprimatur,</hi> under a Penalty.</p>
+               <p>That the Bookſeller or Printer bring and give one Paper, Pamphlet or Book to the ſaid Regiſter, for the advantage of a Library to this Academy, as ſoon as it is printed, and for a Certificate of a true Payment.</p>
+               <p>That the Rector of this Public Academy be by Act of Parliament appointed Regiſter of the Preſs, according to ſuch an Eſtabliſhment, and that his Authority extend to al Preſſes in <hi>England,</hi> with the ſole Privilege of Printing and Publiſh<g ref="char:EOLhyphen"/>ing al Advertiſements whatſoever; the Power of the Gazette only excepted.</p>
+               <p>That no other Perſon praeſume to Print any Notification, or Advertiſement whatſoever, as of Houſes, Eſtats, Goods of all ſorts, Carryers or Coach bils, Auctious, al Bils of Games, Prizes, Plays, Shews, <hi>&amp;c.</hi> Al Papers or Forms with Blancs to be uſed in any Branch of his Majeſtys Revenue, or in any matter relating to his Majeſtys ſervice.</p>
+               <p>That every other ſmal Paper, half or whole Sheet, pay at this Office for its Entry one ſhilling as often as it is printed. But each Pamphlet or Book to pay from 1 Sheet to 5 incluſive five ſhillings, from 5 to 10 ten ſhillings, and ſo for<g ref="char:EOLhyphen"/>ward to 100 Sheets, or more, as often as the Book is printed or reprinted.</p>
+               <p>The ſmal charg of which Entry, without conſidering its Excellent Service to the Public, cannot in truth be ſuppos'd an Impoſition by any Author or Book<g ref="char:EOLhyphen"/>ſeller, who paid more for Civility and Expedition to former Licencers; nor ought each Individual Book affect either Buyer or Seller, to raiſe the Price of any Book, as by this Scheme does demonſtratively appear.</p>
+               <p>An Author, or Bookſeller, often prints 1500 Books at one Impreſſion, com<g ref="char:EOLhyphen"/>monly 1000, for the moſt part in octavo, which makes 16 pages to one ſheet; in quarto 8 pages; and theſe two Volumes being moſt in uſe, ſhal therefore be here propos'd.</p>
+               <p>A Manuſcript of 20 ſheets is brought to this Office, and pays 20 <abbr>
+                     <hi>s.</hi>
+                  </abbr> if printed in quarto makes 160 pages, in octavo 320. The Impreſſion conſiſting of 1000 Books, each Book upon Diviſion does not pay for itſelf one whole Farthing; for 1000 Farthings make 1 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 0 10 <abbr>
+                     <hi>d.</hi>
+                  </abbr> and the Manuſcript pays but 20 <abbr>
+                     <hi>s.</hi>
+                  </abbr> and containing 320 pages is a large Volum.</p>
+               <p>According to which Inſenſible Rate, We are not to aeſtimat each Book of 5 Sheets at the 4th Part, of 10 Sheets at 2 Parts, of 15 Sheets at 3 Parts of a Far<g ref="char:EOLhyphen"/>thing: thus by Progreſſion each Book of 80 ſheets, which complets 640 pages in quarto, and 1280 in octavo, and never to be bound up in the laſt Volum, pays not a ful Peny for the Impreſſion of 1000, and if 1500 be printed, a third part of the ſaid Rate is to be deducted.</p>
+               <p>Which ſufficiently proves, that this Beneficial Act can by no ways or means be thought praejudicial, yet may perform the ſupport of this Public Academy, and produce other Advantages to the Nation.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
